@@ -36,6 +36,7 @@
         }
       },
       "source": [
+        "#This lab also uses the bikeShare.csv file to explore prediction intervals and linear regression modeling with qualitative factors in R and Python",
         "import rpy2.rinterface\n",
         "%load_ext rpy2.ipython\n",
         "import os\n",
